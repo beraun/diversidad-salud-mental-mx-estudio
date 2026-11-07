@@ -23,13 +23,17 @@ Este proyecto surgió de una pregunta: **¿qué relación existe entre las exper
 
 ## Conoce los resultados y su respaldo
 
-- [Presentación explicada para stakeholders, 17 diapositivas](presentacion/guion_17_diapositivas.md) — lectura accesible, con mensajes y fuentes.
+**Presentación ejecutiva B · 17 diapositivas**
+
+- **[Ver la presentación completa (PDF)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)** — lectura directa desde GitHub.
+- [Descargar la versión editable (PowerPoint)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pptx) — archivo de trabajo.
+- [Consultar el guion de las 17 diapositivas](presentacion/guion_17_diapositivas.md) — texto de apoyo, mensajes y fuentes.
 - [Informe metodológico](docs/informe_metodologico.md) — población, medidas, ponderación, incertidumbre y limitaciones.
 - [Fuentes y comparabilidad](docs/fuentes_y_contexto.md) — INEGI, Trevor Project y literatura científica, sin mezclar universos.
 - [Tablas agregadas H1](datos/h1_resumen_ponderado.csv) y [H2](datos/h2_resumen_ponderado.csv) — resultados auditables.
 - [Script de visualización](scripts/graficas_agregadas.py) y [notebook de lectura](notebooks/consulta_agregados.ipynb).
 
-La presentación completa **PowerPoint/PDF** se preparó y auditó fuera de GitHub. Su incorporación binaria al repositorio todavía está pendiente; los resultados y el recorrido de sus 17 láminas están documentados aquí.
+La presentación B ya está publicada en **PDF y PowerPoint** dentro de `presentacion/`; el PDF es la forma recomendada de consulta y el guion sirve como apoyo.
 
 ## Cómo se hizo
 
