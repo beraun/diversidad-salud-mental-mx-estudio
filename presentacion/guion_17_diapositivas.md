@@ -5,7 +5,7 @@ Victimización e ideación suicida en jóvenes LGBT+ · ENDISEG 2021
 
 **Jorge Beraún Luque** · Ingeniero en Sistemas | Inteligencia Artificial Aplicada | Ciencia de Datos
 
-El recorrido siguiente reproduce las ideas y cifras de las **17 diapositivas** elaboradas para stakeholders con poca experiencia estadística. El PowerPoint/PDF binario está pendiente de incorporarse a este repositorio.
+El recorrido siguiente reproduce las ideas y cifras de las **17 diapositivas** elaboradas para stakeholders con poca experiencia estadística. Consulta la **[presentación PDF](Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)** para visualizar las 17 láminas o descarga la **[presentación editable en PowerPoint](Diversidad_y_salud_mental_Mexico_presentacion_B.pptx)**. Este guion es un apoyo textual complementario.
 
 1. **Diversidad y salud mental en México.** La pregunta, las fuentes y el propósito del estudio.
 2. **¿Qué relación hay entre victimización e ideación suicida?** Ser LGBT+ no es por sí mismo una explicación del sufrimiento psicológico.
