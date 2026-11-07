@@ -9,17 +9,23 @@ Este proyecto surgió de una pregunta: **¿qué relación existe entre las exper
 
 ## La presentación, de un vistazo
 
-**17 diapositivas sobre la pregunta, los hallazgos y sus límites.** Estas tres vistas vectoriales representan las láminas 1, 5 y 6 del diseño ejecutivo B. Haz clic para abrir la presentación completa.
+Una muestra visual de tres láminas de la presentación ejecutiva B. Cada imagen abre el PDF completo de **17 diapositivas**.
 
-[![Portada de la presentación: Diversidad y salud mental en México, ENDISEG 2021](assets/vista-previa-portada.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)
+**Portada · Diapositiva 1**
 
-| Hallazgo principal · Diapositiva 5 | Tipos de victimización · Diapositiva 6 |
-|:---:|:---:|
-| [![Prevalencias ponderadas: 8.77% sin victimización y 44.96% con al menos un tipo](assets/vista-previa-hallazgo.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf) | [![Comparación de la ideación según siete categorías de tipos de victimización](assets/vista-previa-categorias.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf) |
+[![Portada de la presentación Diversidad y salud mental en México](assets/vista-previa-portada.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)
+
+**Hallazgo principal · Diapositiva 5**
+
+[![Comparación de las prevalencias ponderadas de ideación: 8.77% sin victimización y 44.96% con al menos un tipo](assets/vista-previa-hallazgo.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)
+
+**Tipos distintos de victimización · Diapositiva 6**
+
+[![Prevalencia de ideación según siete categorías de tipos de victimización general, de 0 a 6](assets/vista-previa-categorias.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)
 
 **[Ver las 17 diapositivas (PDF)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)** · [Descargar PowerPoint editable](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pptx) · [Leer el guion](presentacion/guion_17_diapositivas.md)
 
-*Estas vistas son recreaciones vectoriales del contenido visual de las láminas seleccionadas, no capturas pixel a pixel. Las cifras son asociaciones observacionales; no implican causalidad.*
+*Estas vistas reproducen el contenido de láminas seleccionadas en SVG; para consultar exactamente la presentación original, abre el PDF. Las cifras muestran asociaciones, no relaciones causales.*
 
 ## Tres hallazgos para entender el estudio
 
