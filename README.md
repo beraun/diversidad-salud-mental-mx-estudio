@@ -7,6 +7,20 @@ Este proyecto surgió de una pregunta: **¿qué relación existe entre las exper
 **Dirección del proyecto:** **Jorge Beraún Luque**  
 *Ingeniero en Sistemas | Inteligencia Artificial Aplicada | Ciencia de Datos*
 
+## La presentación, de un vistazo
+
+**17 diapositivas sobre la pregunta, los hallazgos y sus límites.** Estas tres vistas vectoriales representan las láminas 1, 5 y 6 del diseño ejecutivo B. Haz clic para abrir la presentación completa.
+
+[![Portada de la presentación: Diversidad y salud mental en México, ENDISEG 2021](assets/vista-previa-portada.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)
+
+| Hallazgo principal · Diapositiva 5 | Tipos de victimización · Diapositiva 6 |
+|:---:|:---:|
+| [![Prevalencias ponderadas: 8.77% sin victimización y 44.96% con al menos un tipo](assets/vista-previa-hallazgo.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf) | [![Comparación de la ideación según siete categorías de tipos de victimización](assets/vista-previa-categorias.svg)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf) |
+
+**[Ver las 17 diapositivas (PDF)](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pdf)** · [Descargar PowerPoint editable](presentacion/Diversidad_y_salud_mental_Mexico_presentacion_B.pptx) · [Leer el guion](presentacion/guion_17_diapositivas.md)
+
+*Estas vistas son recreaciones vectoriales del contenido visual de las láminas seleccionadas, no capturas pixel a pixel. Las cifras son asociaciones observacionales; no implican causalidad.*
+
 ## Tres hallazgos para entender el estudio
 
 **1. Una diferencia documentada por el INEGI.** Entre personas de **15 años y más**, el INEGI informó antecedentes de ideación suicida alguna vez en **26.1% de la población LGBTI+** y **7.9% de la población no LGBTI+**. Es información publicada por el INEGI, **no un contraste nuevo de este estudio**. [Comunicado 340/22, p. 14](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2022/endiseg/Resul_Endiseg21.pdf).
