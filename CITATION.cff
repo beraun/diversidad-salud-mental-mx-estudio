@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Si utilizas este trabajo, cita al responsable y a la ENDISEG 2021 del INEGI."
+title: "Diversidad y salud mental en México: victimización e ideación suicida en jóvenes LGBT+"
+type: software
+authors:
+  - family-names: "Beraún Luque"
+    given-names: "Jorge"
+abstract: "Proyecto de análisis de ENDISEG 2021 y visualizaciones basadas en resultados agregados; GPT-6 se utilizó como herramienta de asistencia técnica."
+keywords:
+  - "data-analysis"
+  - "data-science"
+  - "applied-ai"
+  - "mexico"
+  - "lgbtq"
+  - "endiseg-2021"
